@@ -1,14 +1,15 @@
 Algoritmo "Volume da lata"
-//  
-//  
-// Descrição   : Volume lata de oleo
-// Autor(a)    : Paulo Sérgio Martins
+
+// Disciplina  :  [Linguagem e LÃ³gica de ProgramaÃ§Ã£o] 
+// Professor   : Aldo Henrique 
+// DescriÃ§Ã£o   : Volume lata de oleo
+// Autor(a)    : Paulo SÃ©rgio Martins
 // Data atual  : 25/02/2020
 
 
-// 3. Faça um algoritmo com descrição narrativa e em pseudocódigo para
-//calcular e apresentar o valor do volume de uma lata de óleo, utilizando a
-//equação: Volume = PI * raio2 * altura. Implemente no software (VISUALG).
+// 3. FaÃ§a um algoritmo com descriÃ§Ã£o narrativa e em pseudocÃ³digo para
+//calcular e apresentar o valor do volume de uma lata de Ã³leo, utilizando a
+//equaÃ§Ã£o: Volume = PI * raio2 * altura. Implemente no software (VISUALG).
 
 Var
 
@@ -18,9 +19,9 @@ Inicio
 
  escreval("Informe a altura da lata " )
  leia(vAltura)
- escreval("Informe o raio da circunferência da lata.")
+ escreval("Informe o raio da circunferÃªncia da lata.")
   leia(vRaio)
   vVolume <-  3.14 * (vRaio ^2) * vAltura
-  escreva("O volume da lata é: ", vVolume )
+  escreva("O volume da lata Ã©: ", vVolume )
 
 Fimalgoritmo
