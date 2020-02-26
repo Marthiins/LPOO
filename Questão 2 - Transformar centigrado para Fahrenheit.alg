@@ -1,21 +1,21 @@
 Algoritmo "TEMPERATURA"
 //  
 //  
-// DescriÁ„o   : temperatura em graus CentÌgrados e apresente a temperatura
+// Descri√ß√£o   : temperatura em graus Cent√≠grados e apresente a temperatura
 //convertida em graus Fahrenheit
-// Autor(a)    : Paulo SÈrgio Martins
+// Autor(a)    : Paulo S√©rgio Martins
 // Data atual  : 24/02/2020
 
 
-// Quest„o 2. FaÁa um algoritmo e implemente no (VISUALG) que leia uma
-//temperatura em graus CentÌgrados e apresente a temperatura
-//convertida em graus Fahrenheit. A equaÁ„o de convers„o È: F = (9 * C +
-//160) / 5. Em que F È a temperatura em Fahrenheit e C È a temperatura
-//em CentÌgrados. FaÁa tambÈm o algoritmo em fluxograma.
+// Quest√£o 2. Fa√ßa um algoritmo e implemente no (VISUALG) que leia uma
+//temperatura em graus Cent√≠grados e apresente a temperatura
+//convertida em graus Fahrenheit. A equa√ß√£o de convers√£o √©: F = (9 * C +
+//160) / 5. Em que F √© a temperatura em Fahrenheit e C √© a temperatura
+//em Cent√≠grados. Fa√ßa tamb√©m o algoritmo em fluxograma.
 
 Var
 
-    i, praia : real
+    i , praia : real
    temp_centigrado, temp_fahrenheit: real
 
 Inicio
@@ -25,7 +25,7 @@ Inicio
      escreval ("Informe a temperatura em graus centigrado: ")
        leia (temp_centigrado)
     temp_fahrenheit <- 9 * (temp_centigrado + 160) / 5
-     escreval ("A temperatura em graus Fahrenheit È: ", temp_fahrenheit)
+     escreval ("A temperatura em graus Fahrenheit √©: ", temp_fahrenheit)
  i<- temp_fahrenheit
 se i <= 0 entao
      escreva (" Nossa esta muito frio  Hoje" )
