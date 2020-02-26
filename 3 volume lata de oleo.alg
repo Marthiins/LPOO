@@ -1,15 +1,15 @@
 Algoritmo "Volume da lata"
 //  
 //  
-// Escrever um algoritmo e um programa para calcular e apresentar o valor do volume de uma lata de óleo,
-//utilizando a fórmula: VOLUME = PI * r2 * ALTURA. Onde “r” é igual ao raio da circunferência da lata.
+// Escrever um algoritmo e um programa para calcular e apresentar o valor do volume de uma lata de Ã³leo,
+//utilizando a fÃ³rmula: VOLUME = PI * r2 * ALTURA. Onde â€œrâ€ Ã© igual ao raio da circunferÃªncia da lata.
 
-//Como a pergunta é pequena, vamos separar em 3 partes:
-//solicitar dados ao usuário (leitura de dados)
+//Como a pergunta Ã© pequena, vamos separar em 3 partes:
+//solicitar dados ao usuÃ¡rio (leitura de dados)
 //processamento (Calculando o volume)
-//impressão (Saída – Mostrando os resultados na tela)
+//impressÃ£o (SaÃ­da â€“ Mostrando os resultados na tela)
 Var
-// Seção de Declarações das variáveis
+// SeÃ§Ã£o de DeclaraÃ§Ãµes das variÃ¡veis
 vAltura, vRaio, vVolume : real
 
 Inicio
@@ -17,7 +17,7 @@ Inicio
  // parte 1
  escreval("Informe a altura da lata " )
  leia(vAltura)
- escreva("Informe o raio da circunferência da lata.")
+ escreva("Informe o raio da circunferÃªncia da lata.")
   leia(vRaio)
 
   // parte 2 =  pi(3.14) x qualquer numeo x ele mesmo x altura
@@ -25,9 +25,6 @@ Inicio
   vVolume <-  3.14 * (vRaio ^2) * vAltura
   
    // parte 3
-  escreva("O volume da lata é: ", vVolume )
+  escreva("O volume da lata Ã©: ", vVolume )
 
 Fimalgoritmo
-
-
-
