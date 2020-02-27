@@ -1,13 +1,12 @@
 Algoritmo "Quadrado do numero"
 //
 //
-// Descrição   : Resultado resultado quadrado número Digitado.
-// Autor(a)    : Paulo Sérgio Martins
+// DescriÃ§Ã£o   : Resultado resultado quadrado nÃºmero Digitado.
+// Autor(a)    : Paulo SÃ©rgio Martins
 // Data atual  : 24/02/2020
-
-// QUestão 5. Faça um algoritmo em fluxograma e pseudocódigo (VISUALG) que
-//efetue a leitura de um número inteiro e apresente o resultado do
-//quadrado deste número.
+// QUestÃ£o 5. FaÃ§a um algoritmo em fluxograma e pseudocÃ³digo (VISUALG) que
+//efetue a leitura de um nÃºmero inteiro e apresente o resultado do
+//quadrado deste nÃºmero.
 
 Var
    Valor1, i : real
@@ -18,7 +17,7 @@ Inicio
    leia (Valor1)
  i<-(Valor1*1)^2
 
-   escreval (" O resultado de" , Valor1 ," ao quadrado é ", i)
+   escreval (" O resultado de" , Valor1 ," ao quadrado Ã© ", i)
 
 Fimalgoritmo
 
