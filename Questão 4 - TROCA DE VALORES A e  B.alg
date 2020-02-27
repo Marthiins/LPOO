@@ -1,14 +1,14 @@
-Algoritmo "TROCA DE VALORES A E B"
+Algoritmo "TROCA DE VALORES 
 //  
 //  
-// Descrição   : Trocr valor de A com B
-// Autor(a)    : Paulo Sérgio Martins
+// DescriÃ§Ã£o   : Trocar valor es
+// Autor(a)    : Paulo SÃ©rgio Martins
 // Data atual  : 24/02/2020
 
-// 4. Faça um algoritmo em fluxograma e pseudocódigo (VISUALG) que leia
-//dois valores para as variáveis A e B, efetue a troca dos valores de forma
-//que a variável A passe a possuir o valor da variável B e que a variável B
-//passe a possuir o valor da variável A. Apresentar os valores trocados.
+// 4. FaÃ§a um algoritmo em fluxograma e pseudocÃ³digo (VISUALG) que leia
+//dois valores para as variÃ¡veis A e B, efetue a troca dos valores de forma
+//que a variÃ¡vel A passe a possuir o valor da variÃ¡vel B e que a variÃ¡vel B
+//passe a possuir o valor da variÃ¡vel A. Apresentar os valores trocados.
 
 Var
 
