@@ -16,10 +16,10 @@ Var
 temp_centigrado, temp_fahrenheit: real
 
 Inicio
-      
-escreval ("Informe a temperatura em graus centigrado: ")
- leia (temp_centigrado)
-    temp_fahrenheit <- 9 * (temp_centigrado + 160) / 5
-     escreval ("A temperatura em graus Fahrenheit é: ", temp_fahrenheit)
- 
+       escreval ("Informe a temperatura em graus centigrado: ")
+       leia (temp_centigrado)
+    temp_fahrenheit <-  (9 *temp_centigrado + 160) / 5
+     escreval ("A temperatura em graus Fahrenheit é: ", temp_fahrenheit ,"ºF ")
+
+
 Fimalgoritmo
