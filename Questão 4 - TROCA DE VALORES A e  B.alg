@@ -1,7 +1,7 @@
 Algoritmo "TROCA DE VALORES 
 //  
 //  
-// Descrição   : Trocar valor es
+// Descrição   : Trocar  valores
 // Autor(a)    : Paulo Sérgio Martins
 // Data atual  : 24/02/2020
 
