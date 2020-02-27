@@ -21,7 +21,7 @@ Inicio
  leia(vAltura)
  escreval("Informe o raio da circunferência da lata.")
   leia(vRaio)
-  vVolume <-  3,14 * (vRaio ^2) * vAltura
+  vVolume <-  3.14 * (vRaio ^2) * vAltura
   escreva("O volume da lata é: ", vVolume )
 
 Fimalgoritmo
